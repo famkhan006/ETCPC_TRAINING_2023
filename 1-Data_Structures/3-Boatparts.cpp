@@ -1,5 +1,5 @@
 /* Problem link :-
-    https://open.kattis.com/problems
+    https://open.kattis.com/problems/Boatparts
 
 I solved this Problem By using 2 approaches
      1.Looping and checking using vector
